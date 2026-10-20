@@ -1,0 +1,123 @@
+# Lezione 13 · Dai contenuti a cinque slide che si capiscono
+
+[Tutte le lezioni](../../README.md)
+
+[Apri i materiali con i pulsanti per copiare](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-13/)
+
+Trasformare una scheda verificata in cinque slide, controllare testo e impaginazione e riaprire un'esportazione.
+
+Qui trovi i dati degli esercizi e i testi da copiare nella chat. I casi sono inventati. Le risposte di esempio sono preparate per il corso: la tua risposta può essere diversa.
+
+Puoi leggere tutto qui senza un account GitHub. Il riquadro di ogni richiesta permette di copiare il testo. Per avere un file sul computer, apri il TXT collegato e salvalo. Le tue prove vanno nella cartella personale `corso-base`.
+
+## Materiali di partenza
+
+### Scheda breve da usare
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/materiali/Spazio-Riva-scheda-breve.txt)
+
+```text
+SCHEDA BREVE — SPAZIO RIVA (caso inventato)
+Sala per massimo sei persone complessive, con tavolo, schermo e Wi-Fi. Dal lunedì al venerdì, ore 9:00–18:00, esclusi i giorni di chiusura comunicati. Sala Base: 48 euro/mese, IVA esclusa, quattro ore nello stesso mese. Ora aggiuntiva: 18 euro, IVA esclusa. Pulizia ordinaria inclusa. Le ore non usate non passano al mese successivo. Prenotazione minima: un'ora. Richiedere almeno due giorni lavorativi prima indicando data, ora di inizio, durata e partecipanti. Serve conferma scritta. Non inclusi: segreteria, ristorazione, assistenza tecnica durante l'incontro. Calendario di chiusura, connettori dello schermo ed eventuale accessibilità del percorso sono da precisare con Spazio Riva. Nessuna prenotazione eseguita.
+```
+
+### Cinque slide — testi completi
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/materiali/cinque-slide-testi.txt)
+
+```text
+SLIDE 1
+Una sala per riunioni fino a sei persone
+Spazio Riva offre una sala con tavolo, schermo e Wi-Fi. Il piano Sala Base include quattro ore nello stesso mese, a 48 euro al mese, IVA esclusa. Ogni prenotazione dipende dalla disponibilità.
+
+---
+
+SLIDE 2
+Che cosa trovi e quando puoi usarla
+La sala è disponibile dal lunedì al venerdì, 9:00–18:00, esclusi i giorni di chiusura comunicati. Il limite è di sei persone complessive. Segreteria, ristorazione e assistenza tecnica durante l'incontro non sono incluse.
+
+---
+
+SLIDE 3
+Quanto costa e come funzionano le ore
+Sala Base: 48 euro al mese per quattro ore. Ore aggiuntive: 18 euro l'ora. Pulizia ordinaria inclusa. Importi IVA esclusa. Le ore non usate non passano al mese successivo; ogni prenotazione dura almeno un'ora.
+
+---
+
+SLIDE 4
+La richiesta va confermata
+Invia la richiesta almeno due giorni lavorativi prima, indicando data, ora di inizio, durata e partecipanti. Spazio Riva verifica la disponibilità. La prenotazione vale solo dopo la conferma scritta.
+
+---
+
+SLIDE 5
+Prima di proporla al gruppo, controlliamo questi punti
+Verifichiamo disponibilità, calendario di chiusura, connettori dello schermo ed eventuale accessibilità del percorso. La scheda non definisce tutti questi dettagli. Cinque persone rientrano nella capienza; questo non conferma da solo la prenotazione.
+```
+
+### Percorso guidato e alternativa senza account
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/materiali/materiale-03.txt)
+
+```text
+Apri Gamma e prepara una nuova presentazione. Con Agent invia richiesta e cinque testi, controlla la sequenza prima di generare. Nel generatore classico usa il percorso di incolla e l'opzione che conserva il testo. Le interfacce possono cambiare: le fonti ufficiali collegate descrivono i percorsi consultati il 18 ottobre 2026.
+
+Correggi il contenuto, poi esporta tutte le slide nel formato disponibile che ti serve e riapri il file. Il piano gratuito può mostrare il marchio Gamma; non serve un acquisto per seguire il ragionamento.
+
+SENZA ACCOUNT O CREDITI
+Apri cinque-slide.html. Confronta i cinque testi con la scheda, individua la condizione sulla prenotazione e riscrivi il caso errato. Conserva i testi. Questo percorso permette la revisione dei contenuti, ma non verifica la generazione o l'esportazione dal servizio.
+```
+
+### Errore, correzione e nota
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/materiali/materiale-04.txt)
+
+```text
+ERRORE: Scegli la data e la tua sala è prenotata.
+CORREZIONE: Invia la richiesta almeno due giorni lavorativi prima; la prenotazione vale soltanto dopo conferma scritta.
+NOTA: Testi confrontati con la scheda. Controllati costi, ore incluse e condizione di conferma. Esportazione da aprire e verificare durante la prova effettiva. Nessuna foto di una sala reale presente nel caso.
+```
+
+## Richieste da copiare
+
+### La richiesta da usare con i testi
+
+
+```text
+Prepara una presentazione in italiano di cinque slide per una collega che organizza una riunione. Usa i cinque testi che invierò, uno per slide, conservando titoli, parole, importi e condizioni. Non aggiungere promesse, testimonianze, foto di una sala reale o altri dati. Usa impaginazione semplice, testo leggibile e pochi elementi. Prima di generare, mostrami la sequenza prevista.
+```
+
+Usa il Percorso guidato nei Materiali e aggiungi Cinque slide — testi completi. Controlla la sequenza prima di generare.
+
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/prompt/prompt-01.txt)
+
+### Correggiamo solo la slide sulla prenotazione
+
+
+```text
+Nella slide sulla prenotazione hai scritto che scegliere la data basta. Sostituisci quel passaggio: la richiesta va inviata almeno due giorni lavorativi prima e la prenotazione è valida soltanto dopo la conferma scritta di Spazio Riva. Conserva le altre quattro slide e non aggiungere garanzie di disponibilità.
+```
+
+Applica la correzione alla slide sulla prenotazione. Se la tua è già corretta, usa l'errore preparato per il confronto.
+
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/prompt/prompt-02.txt)
+
+## Prima di chiudere
+
+- Cinque slide con i testi previsti.
+- 48 euro per quattro ore; 18 euro per ogni ora aggiuntiva; IVA esclusa.
+- Condizione della conferma scritta conservata.
+- Nessuna illustrazione presentata come fotografia della sala reale.
+- Esportazione ricontrollata oppure limite della prova annotato.
+
+## Fonti indicate nel corso
+
+Riferimenti consultati il 18 ottobre 2026. Funzioni e accessi possono cambiare.
+
+- https://help.gamma.app/en/articles/8022861-what-s-the-easiest-way-to-export-my-gamma
+- https://help.gamma.app/en/articles/11047840-how-can-i-import-slides-or-content-into-gamma
+- https://help.gamma.app/en/articles/7838093-how-do-i-create-a-new-presentation-document-or-webpage-in-gamma
+
+## La presentazione del caso
+
+[Apri le cinque slide di esempio](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-13/cinque-slide.html)

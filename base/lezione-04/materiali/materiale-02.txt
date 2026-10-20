@@ -1,0 +1,5 @@
+Lavoro: trasformare appunti di riunione in azioni.
+Materiali: una pagina di appunti riscritta con nomi e dati inventati.
+Risultato: tabella con attività, persona, scadenza e dubbi.
+Controllo principale: non assegnare una scadenza se negli appunti manca.
+Prima prova da conservare: testo iniziale, risultato e correzione fatta.

@@ -1,0 +1,3 @@
+ERRORE: Scegli la data e la tua sala è prenotata.
+CORREZIONE: Invia la richiesta almeno due giorni lavorativi prima; la prenotazione vale soltanto dopo conferma scritta.
+NOTA: Testi confrontati con la scheda. Controllati costi, ore incluse e condizione di conferma. Esportazione da aprire e verificare durante la prova effettiva. Nessuna foto di una sala reale presente nel caso.

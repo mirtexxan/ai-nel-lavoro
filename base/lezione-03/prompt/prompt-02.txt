@@ -1,0 +1,1 @@
+Aggiorna la lista: Sara ha confermato 4 pennarelli neri. Spostali in «Da comprare». Mantieni invariati gli altri articoli e le loro quantità. Nella sezione «Da confermare» scrivi «Nessun articolo».

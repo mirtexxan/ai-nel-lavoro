@@ -1,0 +1,7 @@
+ESEMPIO PREPARATO PER IL CORSO
+
+Domanda utile: «In quale sede o sala si svolge il laboratorio?»
+
+Nuova informazione del caso: si svolge nella sala B della sede di via delle Betulle 8.
+
+Aggiungiamo questo dato nella chat. Adesso chi riceve il messaggio potrà capire anche dove andare.

@@ -1,0 +1,12 @@
+Nome: Marta Esempio (inventato).
+Telefono: 000 0000000 (numero fittizio non operativo).
+Indirizzo: via del Laboratorio 0, Città Esempio (inventato).
+Ordine: L-73 (inventato).
+Messaggio: La tazza è arrivata con il manico rotto. Non ho allegato foto. Come procediamo?
+Compito: classificare la richiesta come danno, ritardo o informazioni.
+
+TESTO RIDOTTO
+Il cliente segnala una tazza arrivata con il manico rotto. Non ha allegato foto. Chiede come procedere.
+Categoria: danno segnalato.
+
+Il caso inventato permette di esercitarsi. Non dimostra che una scheda reale sia anonima o autorizzata all'uso in qualunque servizio.

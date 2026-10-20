@@ -1,0 +1,1 @@
+Hai associato 18 euro al piano mensile. Nel §2.1 sono il prezzo dell'ora aggiuntiva. Rileggi §1.2 e §2.1: distingui canone mensile, ore incluse e costo dell'ora aggiuntiva. Restituisci solo queste tre voci, conservando unità e IVA esclusa.

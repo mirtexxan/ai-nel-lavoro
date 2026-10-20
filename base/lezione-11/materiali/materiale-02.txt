@@ -1,0 +1,14 @@
+PRIMO ANNO
+A: 29 × 12 + 120 = 468 euro.
+B: 360 + 40 = 400 euro.
+Differenza: 468 − 400 = 68 euro.
+Risparmio di B rispetto ad A: 68 / 468 × 100 = 14,5299...%, arrotondato 14,5%.
+A costa il 17% in più rispetto a B: 68 / 400 × 100.
+
+SOLO SECONDO ANNO, A PREZZI INVARIATI
+A: 29 × 12 = 348 euro.
+B: 360 euro.
+A costa 12 euro in meno in quel solo anno.
+
+NOTA DA SALVARE
+Confrontati primi dodici mesi, stesso servizio e utente, importi IVA esclusa, costi iniziali contati una sola volta. Controllati con calcolatrice i totali e la percentuale. Recesso e altre condizioni non descritte restano da chiedere.

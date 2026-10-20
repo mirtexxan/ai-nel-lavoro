@@ -1,0 +1,4 @@
+A. Una formula scritta da una persona mostra «da riordinare» quando la quantità è minore di 10. Prova con 9, 10 e 12.
+B. Un modello addestrato su esempi prova a distinguere spam e mail utili. Due errori inventati: una fattura attesa finisce nello spam; una pubblicità non richiesta rimane in arrivo. Non sono misurazioni di un filtro.
+C. Un modello linguistico scrive a un cliente usando gli appunti forniti.
+Per ogni caso scrivi una riga: che cosa fa il sistema, un errore possibile, una prova per accorgertene. B e C usano entrambi un modello addestrato: il compito è diverso.

@@ -1,0 +1,4 @@
+Alla consultazione del 18 ottobre 2026, la guida di Gamma include l'esportazione PowerPoint (PPTX): https://help.gamma.app/en/articles/8022861-what-s-the-easiest-way-to-export-my-gamma
+Per conservare un testo già scritto, la guida distingue la richiesta esplicita ad Agent dall'opzione Preserve del generatore classico: https://help.gamma.app/en/articles/11047840-how-can-i-import-slides-or-content-into-gamma
+
+Nota operativa del corso: confrontare il testo prodotto con l'originale e riaprire l'esportazione. Le due pagine non dimostrano il diritto di usare qualsiasi immagine in pubblicità.

@@ -1,0 +1,8 @@
+ERRORE PREPARATO
+Ciao Luca, confermo il nostro incontro del 12 novembre 2026 alle 10:00.
+
+ESEMPIO CORRETTO
+Ciao Luca, possiamo spostare l'incontro dal 12 novembre 2026 alle 10:00 al 13 novembre 2026 alle 15:00? Restano 30 minuti online. Se per te va bene, ti invio il link dopo la tua conferma. Grazie, Elisa.
+
+CONTROLLO
+Entrambe le date; la nuova data è una proposta; durata e modalità conservate; nessun motivo inventato.
