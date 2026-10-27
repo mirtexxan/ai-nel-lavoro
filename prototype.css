@@ -11,4 +11,6 @@
 .v2 .vrows .vblock{padding:.7cqw 1.4cqw;border-bottom:1px solid #c9c5bd}
 .v2 .vrows .vblock:last-child{border:0;background:#e5ecff;padding:1cqw 1.4cqw}
 
+.v2 .vtable{display:flex;flex-direction:column;gap:.9cqw;font-size:1.7cqw}.v2 .evidence-table{width:100%;border-collapse:collapse;background:#fffdf8;table-layout:fixed}.v2 .evidence-table th,.v2 .evidence-table td{padding:.75cqw 1.2cqw;text-align:left;border-bottom:1px solid #c9d1dd;font-weight:400;vertical-align:middle}.v2 .evidence-table th{color:#3157d5;font-weight:700;background:#e5ecff}.v2 .evidence-table th:nth-child(1){width:39%}.v2 .evidence-table th:nth-child(2){width:35%}.v2 .evidence-table th:nth-child(3){width:26%}
+
 .canvas mark{background:#ddf05a;color:#17213a;padding:0 .08em}

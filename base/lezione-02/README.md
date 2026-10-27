@@ -72,6 +72,27 @@ Caso inventato. Elisa scrive a Luca. Incontro iniziale: 12 novembre 2026, ore 10
 
 Questa lezione lavora sui casi e sui confronti riportati nei materiali di partenza.
 
+## Esempi da confrontare con il tuo lavoro
+
+Sono esempi preparati per ragionare sui risultati, non risposte garantite dello strumento.
+
+### Guardiamo sei mail: dove sbaglia il filtro?
+
+ESEMPIO PREPARATO PER IL CORSO
+
+| Mail | Contesto noto | Filtro |
+|---|---|---|
+| 1. Fattura del fornitore | Acquisto atteso | Spam |
+| 2. Vinci un premio | Nessuna richiesta | Spam |
+| 3. Conferma riunione | Incontro concordato | Posta in arrivo |
+| 4. Sconto del 90% | Promozione non richiesta | Posta in arrivo |
+| 5. Documento del collega | File atteso | Posta in arrivo |
+| 6. Offerta non richiesta | Nessun rapporto col mittente | Spam |
+
+Trova i due errori. Quale mail utile rischi di perdere? Quale messaggio indesiderato rimane in arrivo? La tabella è anche nei Materiali.
+
+[Apri il TXT dell’esempio](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-02/esempi/esempio-01.txt)
+
 ## Prima di chiudere
 
 - Prova la formula con 9, 10 e 12: l’avviso deve comparire soltanto con 9.
