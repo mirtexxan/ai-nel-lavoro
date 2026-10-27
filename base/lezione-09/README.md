@@ -10,7 +10,23 @@ Qui trovi i dati degli esercizi e i testi da copiare nella chat. I casi sono inv
 
 Puoi leggere tutto qui senza un account GitHub. Il riquadro di ogni richiesta permette di copiare il testo. Per avere un file sul computer, apri il TXT collegato e salvalo. Le tue prove vanno nella cartella personale `corso-base`.
 
-## Materiali di partenza
+## Parti da qui
+
+I dati necessari sono tutti in questa pagina. Per fare il caso non devi recuperare una tua vecchia chat.
+
+**Ti serve:** Scarica Spazio-Riva.txt e leggi il documento. Tieni separato l’estratto della prima pagina.
+
+**Alla fine avrai:** Cinque risposte riferite al documento e confronto con la prova sull’estratto.
+
+- Apri e leggi il file, poi allegalo o incolla il testo completo.
+- Cerca cinque risposte e vai davvero ai paragrafi indicati.
+- Apri una nuova chat con il solo estratto: confronta ciò che ora manca.
+
+**Senza accesso allo strumento:** Leggi documento ed estratto nel browser. Puoi svolgere il confronto anche senza upload.
+
+[Scarica il pacchetto della lezione](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-09/pacchetto-lezione.zip)
+
+## Materiali di partenza e confronti
 
 ### Scheda Spazio Riva — documento completo di tre pagine
 
@@ -58,6 +74,9 @@ Per conoscere il calendario di chiusura, i connettori dello schermo, l'eventuale
 Prima di proporre la sala a un gruppo, verificare capienza, data, fascia oraria, ore disponibili e conferma scritta. Se il lavoro richiede un servizio non incluso, chiedere una risposta specifica. La presente scheda non descrive rinnovo, disdetta del piano o deposito cauzionale: sono punti da chiarire prima di un eventuale acquisto.
 ```
 
+<details>
+<summary>Soluzione completa e nota da salvare · apri per confrontare</summary>
+
 ### Soluzione completa e nota da salvare
 
 [Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-09/materiali/materiale-02.txt)
@@ -72,6 +91,45 @@ Connettori: non indicati (§3.1–3.2).
 NOTA
 Controllati direttamente costo e condizione di prenotazione. Connettori non specificati. Per la riunione di cinque persone la capienza è sufficiente, ma disponibilità e collegamento dello schermo restano da verificare. Nessuna prenotazione eseguita.
 ```
+
+</details>
+
+### Estratto della prima pagina
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-09/materiali/spazio-riva-estratto.txt)
+
+```text
+SPAZIO RIVA — Scheda del servizio sale riunioni
+Documento inventato per il corso. Versione 1, 6 novembre 2026.
+PAGINA 1 DI 3 — CHE COSA COMPRENDE
+
+1.1 A chi serve
+Spazio Riva offre una sala riunioni a piccoli gruppi di lavoro. Questa scheda descrive un servizio fittizio: importi e condizioni sono materiali dell'esercizio, non un'offerta commerciale. La sala può ospitare fino a sei persone, compresa la persona che prenota. È disponibile un tavolo, uno schermo e una connessione Wi-Fi. Non sono inclusi servizi di segreteria, ristorazione o assistenza tecnica durante la riunione.
+
+1.2 Piano mensile
+Il piano Sala Base costa 48 euro al mese, IVA esclusa. Comprende quattro ore di uso della sala nello stesso mese solare. Le ore non utilizzate non passano al mese successivo. Ogni prenotazione ha durata minima di un'ora. Il piano non riserva automaticamente una fascia oraria: tutte le prenotazioni dipendono dalla disponibilità della sala.
+
+1.3 Orari del servizio
+La sala si può usare dal lunedì al venerdì, dalle 9:00 alle 18:00, esclusi i giorni di chiusura comunicati da Spazio Riva. Questa scheda non contiene un calendario dei giorni di chiusura. Non è previsto accesso serale o nel fine settimana. Le richieste speciali devono essere valutate e non sono automaticamente accettate.
+
+
+```
+
+<details>
+<summary>Confronto della prova con estratto · apri per confrontare</summary>
+
+### Confronto della prova con estratto
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-09/materiali/confronto-estratto.txt)
+
+```text
+Con il solo estratto: 48 euro/mese, IVA esclusa (§1.2). La condizione di conferma non è trattata nei paragrafi 1.1–1.3.
+Con il documento completo: la prenotazione vale dopo la conferma scritta (§2.2).
+I connettori restano non indicati anche nel documento completo (§3.1–3.2).
+Salva la risposta dichiarando se hai usato documento completo oppure estratto.
+```
+
+</details>
 
 ## Richieste da copiare
 
@@ -97,6 +155,17 @@ Usa questa correzione se la risposta ha confuso i due costi. Se non è successo,
 
 [Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-09/prompt/prompt-02.txt)
 
+### La risposta deve restare dentro l’estratto
+
+
+```text
+Usa soltanto l’estratto di Spazio Riva riportato sotto. Quanto costa il piano mensile? Quando la prenotazione diventa confermata? Per ogni risposta indica il paragrafo. Se il punto non è trattato nell’estratto, dillo: non cercare sul web e non dedurre la condizione.
+```
+
+Aggiungi sotto Estratto della prima pagina e invia insieme nella nuova chat.
+
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-09/prompt/prompt-03.txt)
+
 ## Prima di chiudere
 
 - Nessun prezzo o unità scambiati.
@@ -107,9 +176,8 @@ Usa questa correzione se la risposta ha confuso i due costi. Se non è successo,
 
 ## Fonti indicate nel corso
 
-Riferimenti consultati il 18 ottobre 2026. Funzioni e accessi possono cambiare.
+Riferimenti ricontrollati il 27 ottobre 2026. Funzioni e accessi possono cambiare.
 
-- https://learn.chatgpt.com/docs/artifacts-viewer?surface=app
 - https://learn.chatgpt.com/docs/use-chatgpt
 
 ## Documento su tre pagine

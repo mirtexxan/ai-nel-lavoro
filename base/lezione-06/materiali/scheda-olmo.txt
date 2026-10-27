@@ -1,0 +1,5 @@
+CASO INVENTATO — Negozio Olmo, avviso del 1 dicembre 2026.
+Il 2 dicembre, dalle 18:00 alle 18:30, il sito sarà consultabile ma non si potranno inviare nuovi ordini. Gli ordini già ricevuti restano registrati.
+Paolo deve preparare l’avviso entro le 17:00. Lina controlla che sia visibile prima delle 18:00.
+Non sono previsti sconti e non è fornito un recapito alternativo per ordinare.
+Occorrono due testi: una nota operativa per Paolo e Lina, e un avviso entro 60 parole per i clienti del sito. I nomi e le scadenze interne non servono nell’avviso pubblico.

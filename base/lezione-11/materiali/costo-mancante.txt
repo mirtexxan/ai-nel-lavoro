@@ -1,0 +1,8 @@
+CAMBIA UN SOLO DATO
+L’offerta B indica 360 euro per dodici mesi, ma non specifica il costo iniziale. Tutto il resto del caso è uguale.
+
+PROVA
+Possiamo ancora dire che B costa meno nel primo anno? Scrivi il conto senza inventare il dato.
+
+CONFRONTO
+A = 468 euro. B = 360 euro + costo iniziale non noto. B costa meno soltanto se il costo iniziale è inferiore a 108 euro; con 108 i totali coincidono. Prima della scelta chiedo quel costo. Il prezzo più basso non risolve le altre condizioni mancanti.

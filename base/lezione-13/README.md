@@ -10,7 +10,23 @@ Qui trovi i dati degli esercizi e i testi da copiare nella chat. I casi sono inv
 
 Puoi leggere tutto qui senza un account GitHub. Il riquadro di ogni richiesta permette di copiare il testo. Per avere un file sul computer, apri il TXT collegato e salvalo. Le tue prove vanno nella cartella personale `corso-base`.
 
-## Materiali di partenza
+## Parti da qui
+
+I dati necessari sono tutti in questa pagina. Per fare il caso non devi recuperare una tua vecchia chat.
+
+**Ti serve:** Scheda breve Spazio Riva, cinque testi, accesso a Gamma e un programma che apra PPTX per provare tutto il percorso.
+
+**Alla fine avrai:** Cinque slide corrette e file riaperto; oppure revisione dei cinque testi nel percorso senza Gamma.
+
+- Dalla scheda ricava una scaletta e confrontala con le domande della collega.
+- Prepara i cinque testi, poi inseriscili in Gamma con la richiesta.
+- Correggi la prenotazione, esporta tutte le slide e apri il file per controllarlo.
+
+**Senza accesso allo strumento:** Apri le cinque slide HTML, confronta i testi e correggi l’errore preparato. Non equivale a provare Gamma o il download PPTX.
+
+[Scarica il pacchetto della lezione](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-13/pacchetto-lezione.zip)
+
+## Materiali di partenza e confronti
 
 ### Scheda breve da usare
 
@@ -60,12 +76,15 @@ Verifichiamo disponibilità, calendario di chiusura, connettori dello schermo ed
 [Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/materiali/materiale-03.txt)
 
 ```text
-Apri Gamma e prepara una nuova presentazione. Con Agent invia richiesta e cinque testi, controlla la sequenza prima di generare. Nel generatore classico usa il percorso di incolla e l'opzione che conserva il testo. Le interfacce possono cambiare: le fonti ufficiali collegate descrivono i percorsi consultati il 18 ottobre 2026.
-
-Correggi il contenuto, poi esporta tutte le slide nel formato disponibile che ti serve e riapri il file. Il piano gratuito può mostrare il marchio Gamma; non serve un acquisto per seguire il ragionamento.
+PERCORSO DA PROVARE NELL’ACCOUNT USATO PER LA REGISTRAZIONE
+1. Apri Gamma. Inserisci insieme richiesta e cinque testi nella modalità con Agent. Se compare una scaletta, confrontala con i cinque testi prima di generare. In alternativa usa il generatore classico e l’opzione Preserve dopo aver incollato il testo.
+2. Leggi tutte le slide. Correggi il testo o la disposizione della singola slide interessata e ricontrolla il resto.
+3. Per esportare, apri Share e poi Export, oppure il menu con tre puntini e Export. Seleziona tutte le slide e PowerPoint (PPTX).
+4. Salva e riapri con un programma compatibile, controllando tutte e cinque le slide. La documentazione descrive questi passaggi; il risultato concreto va provato nel proprio account.
+Fonti ufficiali ricontrollate il 27 ottobre 2026; interfaccia e disponibilità possono cambiare.
 
 SENZA ACCOUNT O CREDITI
-Apri cinque-slide.html. Confronta i cinque testi con la scheda, individua la condizione sulla prenotazione e riscrivi il caso errato. Conserva i testi. Questo percorso permette la revisione dei contenuti, ma non verifica la generazione o l'esportazione dal servizio.
+Apri cinque-slide.html. Confronta i testi con la scheda e correggi il caso preparato. Puoi provare la scelta dei contenuti, ma non la generazione o l’esportazione dal servizio.
 ```
 
 ### Errore, correzione e nota
@@ -78,18 +97,45 @@ CORREZIONE: Invia la richiesta almeno due giorni lavorativi prima; la prenotazio
 NOTA: Testi confrontati con la scheda. Controllati costi, ore incluse e condizione di conferma. Esportazione da aprire e verificare durante la prova effettiva. Nessuna foto di una sala reale presente nel caso.
 ```
 
+### Scaletta — confronto prima dei testi
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/materiali/scaletta-riva.txt)
+
+```text
+INCARICO
+Una collega valuta una riunione di cinque persone. Usa la Scheda breve inclusa in questa lezione.
+SCELTA DI CONFRONTO
+1. Che sala è e per chi.
+2. Orari, capienza, servizi inclusi ed esclusi.
+3. Costi e ore.
+4. Richiesta e conferma della prenotazione.
+5. Informazioni da ottenere prima di proporla al gruppo.
+Sono possibili altri ordini. Una sequenza su missione, testimonianze e promesse richiederebbe fatti assenti e non risponderebbe all’incarico.
+```
+
 ## Richieste da copiare
+
+### Dalla scheda, prima ricaviamo una scaletta
+
+
+```text
+Dalla Scheda breve di Spazio Riva riportata sotto proponi la scaletta di cinque slide per una collega che deve valutare una riunione di cinque persone. Per ciascuna indica un titolo e i fatti da inserire. Non scrivere ancora il testo finale. Tieni visibili costi, condizioni di prenotazione e informazioni mancanti. Non aggiungere dati o promesse.
+```
+
+Incolla sotto la Scheda breve e invia in ChatGPT. Confrontiamo l’ordine prima di portare i testi in Gamma.
+
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/prompt/prompt-01.txt)
 
 ### La richiesta da usare con i testi
 
 
 ```text
-Prepara una presentazione in italiano di cinque slide per una collega che organizza una riunione. Usa i cinque testi che invierò, uno per slide, conservando titoli, parole, importi e condizioni. Non aggiungere promesse, testimonianze, foto di una sala reale o altri dati. Usa impaginazione semplice, testo leggibile e pochi elementi. Prima di generare, mostrami la sequenza prevista.
+Prepara una presentazione in italiano di cinque slide per una collega che organizza una riunione. Usa i cinque testi riportati sotto, uno per slide, conservando titoli, parole, importi e condizioni. Non aggiungere promesse, testimonianze, foto di una sala reale o altri dati. Usa impaginazione semplice, testo leggibile e pochi elementi. Prima di generare, mostrami la sequenza prevista.
 ```
 
-Usa il Percorso guidato nei Materiali e aggiungi Cinque slide — testi completi. Controlla la sequenza prima di generare.
+In Gamma inserisci insieme richiesta e Cinque slide — testi completi. Controlla la sequenza prima di generare. Il percorso alternativo è nei Materiali.
 
-[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/prompt/prompt-01.txt)
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/prompt/prompt-02.txt)
 
 ### Correggiamo solo la slide sulla prenotazione
 
@@ -100,7 +146,7 @@ Nella slide sulla prenotazione hai scritto che scegliere la data basta. Sostitui
 
 Applica la correzione alla slide sulla prenotazione. Se la tua è già corretta, usa l'errore preparato per il confronto.
 
-[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/prompt/prompt-02.txt)
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-13/prompt/prompt-03.txt)
 
 ## Prima di chiudere
 
@@ -112,7 +158,7 @@ Applica la correzione alla slide sulla prenotazione. Se la tua è già corretta,
 
 ## Fonti indicate nel corso
 
-Riferimenti consultati il 18 ottobre 2026. Funzioni e accessi possono cambiare.
+Riferimenti ricontrollati il 27 ottobre 2026. Funzioni e accessi possono cambiare.
 
 - https://help.gamma.app/en/articles/8022861-what-s-the-easiest-way-to-export-my-gamma
 - https://help.gamma.app/en/articles/11047840-how-can-i-import-slides-or-content-into-gamma

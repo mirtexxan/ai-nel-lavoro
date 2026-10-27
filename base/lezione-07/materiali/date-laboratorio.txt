@@ -1,0 +1,6 @@
+CASO INVENTATO
+VECCHIA BOZZA: laboratorio il 4 dicembre 2026 alle 15:00, sala A.
+AGGIORNAMENTO CONFERMATO DALL’ORGANIZZATRICE: 5 dicembre 2026 alle 10:00, sala C, 90 minuti; portare il computer.
+ERRORE DA CORREGGERE: «Ci vediamo il 4 dicembre in sala A».
+NOTA DA USARE PER RIPARTIRE: laboratorio 5 dicembre 2026, ore 10:00, sala C, 90 minuti; portare il computer.
+ESEMPIO: Il laboratorio si terrà il 5 dicembre 2026 alle 10:00, in sala C. Durerà 90 minuti. Porta il computer.

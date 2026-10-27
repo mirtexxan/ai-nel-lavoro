@@ -1,0 +1,14 @@
+CASO INVENTATO — Non è un test di un filtro reale.
+Mail | Contesto noto | Filtro
+1. Fattura del fornitore | Acquisto atteso | Spam
+2. Vinci un premio | Nessuna richiesta | Spam
+3. Conferma riunione | Incontro concordato | Posta in arrivo
+4. Sconto del 90% | Promozione non richiesta | Posta in arrivo
+5. Documento del collega | File atteso | Posta in arrivo
+6. Offerta non richiesta | Nessun rapporto con il mittente | Spam
+
+PROVA
+Indica le due classificazioni sbagliate e la loro conseguenza.
+
+CONFRONTO
+Mail 1: comunicazione utile persa nello spam; controllo anche quella cartella per ritrovare la fattura. Mail 4: promozione indesiderata rimasta in arrivo; devo filtrarla. Gli altri quattro esiti sono coerenti con il contesto del caso. Queste sei mail servono a capire gli errori, non a stimare quanto sia affidabile un prodotto.

@@ -1,0 +1,10 @@
+NOTA POSSIBILE
+Paola, per il turno del 3 dicembre: il P-31 è pronto, ma aspettiamo la conferma del corriere. Richiama il cliente solo quando arriva, senza promettere prima una data. Per il P-32, Paolo controlla l’indirizzo entro il 2 dicembre alle 16:00: la spedizione aspetta quel controllo. Per il P-33 mancano due scatole; dobbiamo ancora assegnare chi le procura.
+
+TABELLA
+P-31 | Richiamare il cliente | Paola | Dopo conferma del corriere, non ancora ricevuta
+P-32 | Controllare indirizzo | Paolo | Entro il 2 dicembre 2026, ore 16:00; prima della spedizione
+P-33 | Procurare due scatole | Da definire | Scadenza non fornita
+
+RIESCE QUANDO
+Le tre condizioni coincidono con gli appunti; non ci sono date di ritiro inventate; Paolo e Paola sono distinti; il P-33 resta da assegnare; nota e tabella sono salvate e riapribili. Se un punto è sbagliato, correggilo e ricontrolla il resto. Non serve imitare le frasi dell’esempio.

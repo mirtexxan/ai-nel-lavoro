@@ -1,0 +1,7 @@
+1. Seleziona il testo dell’ultima lista, quella con quattro pennarelli neri, e copialo.
+2. Apri il normale editor di testo del computer, crea un documento e incolla.
+3. Scegli Salva con nome. Apri la cartella corso-base, scrivi lista-ufficio-confermata.txt e salva. Se usi un programma di scrittura, puoi mantenere il suo formato: conta riconoscere il file.
+4. Chiudi il documento e riaprilo dalla cartella. Controlla tutti gli articoli.
+5. Se vedi ancora la prima lista, confronta sia la risposta copiata sia il nome del file aperto.
+
+Se non hai completato la lezione 1, crea adesso una cartella chiamata corso-base: basta per questa prova.

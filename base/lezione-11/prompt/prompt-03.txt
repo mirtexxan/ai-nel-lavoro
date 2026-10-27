@@ -1,0 +1,1 @@
+Riprendi le offerte A e B già confrontate. A prezzi invariati, calcola il costo cumulato dei primi ventiquattro mesi. Conta i costi iniziali una sola volta. Distingui il totale dei due anni dal costo del solo secondo anno. Mostra le formule e la differenza in euro.

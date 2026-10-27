@@ -1,0 +1,6 @@
+CASO INVENTATO
+Servizio 120 euro, IVA esclusa. Consegna a parte, prezzo non indicato.
+ERRORE: totale 130 euro, consegna inclusa.
+DOMANDA POSSIBILE: Può indicarci il costo della consegna e il totale del preventivo? Il servizio è indicato a 120 euro, IVA esclusa.
+NUOVO DATO, DA LEGGERE DOPO LA DOMANDA: il fornitore indica 18 euro per la consegna, IVA esclusa.
+TOTALE CORRETTO: 120 + 18 = 138 euro, IVA esclusa. Prima del nuovo dato il totale era incompleto.

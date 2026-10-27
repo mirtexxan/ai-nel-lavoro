@@ -1,0 +1,8 @@
+CASO INVENTATO
+Negozio Olmo: chiuso il 7 dicembre 2026 per inventario. Riapertura l’8 dicembre alle 9:00. Avviso in vetrina, massimo 30 parole. Non sono forniti contatti o servizi online.
+
+ESEMPIO
+Il 7 dicembre Olmo è chiuso per inventario. Riapriamo l’8 dicembre alle 9:00. A presto!
+
+CONTROLLO
+Chiusura e riapertura corrispondono agli appunti. Il destinatario capisce quando tornare.

@@ -1,6 +1,9 @@
-Apri Gamma e prepara una nuova presentazione. Con Agent invia richiesta e cinque testi, controlla la sequenza prima di generare. Nel generatore classico usa il percorso di incolla e l'opzione che conserva il testo. Le interfacce possono cambiare: le fonti ufficiali collegate descrivono i percorsi consultati il 18 ottobre 2026.
-
-Correggi il contenuto, poi esporta tutte le slide nel formato disponibile che ti serve e riapri il file. Il piano gratuito può mostrare il marchio Gamma; non serve un acquisto per seguire il ragionamento.
+PERCORSO DA PROVARE NELL’ACCOUNT USATO PER LA REGISTRAZIONE
+1. Apri Gamma. Inserisci insieme richiesta e cinque testi nella modalità con Agent. Se compare una scaletta, confrontala con i cinque testi prima di generare. In alternativa usa il generatore classico e l’opzione Preserve dopo aver incollato il testo.
+2. Leggi tutte le slide. Correggi il testo o la disposizione della singola slide interessata e ricontrolla il resto.
+3. Per esportare, apri Share e poi Export, oppure il menu con tre puntini e Export. Seleziona tutte le slide e PowerPoint (PPTX).
+4. Salva e riapri con un programma compatibile, controllando tutte e cinque le slide. La documentazione descrive questi passaggi; il risultato concreto va provato nel proprio account.
+Fonti ufficiali ricontrollate il 27 ottobre 2026; interfaccia e disponibilità possono cambiare.
 
 SENZA ACCOUNT O CREDITI
-Apri cinque-slide.html. Confronta i cinque testi con la scheda, individua la condizione sulla prenotazione e riscrivi il caso errato. Conserva i testi. Questo percorso permette la revisione dei contenuti, ma non verifica la generazione o l'esportazione dal servizio.
+Apri cinque-slide.html. Confronta i testi con la scheda e correggi il caso preparato. Puoi provare la scelta dei contenuti, ma non la generazione o l’esportazione dal servizio.

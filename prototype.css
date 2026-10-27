@@ -10,3 +10,5 @@
 .v2 .vrows{display:flex;flex-direction:column;gap:1.3cqw;justify-content:center}
 .v2 .vrows .vblock{padding:.7cqw 1.4cqw;border-bottom:1px solid #c9c5bd}
 .v2 .vrows .vblock:last-child{border:0;background:#e5ecff;padding:1cqw 1.4cqw}
+
+.canvas mark{background:#ddf05a;color:#17213a;padding:0 .08em}

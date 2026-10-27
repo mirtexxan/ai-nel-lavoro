@@ -10,7 +10,23 @@ Qui trovi i dati degli esercizi e i testi da copiare nella chat. I casi sono inv
 
 Puoi leggere tutto qui senza un account GitHub. Il riquadro di ogni richiesta permette di copiare il testo. Per avere un file sul computer, apri il TXT collegato e salvalo. Le tue prove vanno nella cartella personale `corso-base`.
 
-## Materiali di partenza
+## Parti da qui
+
+I dati necessari sono tutti in questa pagina. Per fare il caso non devi recuperare una tua vecchia chat.
+
+**Ti serve:** Messaggio, scheda e condizioni inventate di Nora, tutti inclusi qui. Una nuova chat e due documenti da salvare.
+
+**Alla fine avrai:** nora-risposta.txt e nora-nota-interna.txt, coerenti con le foto effettivamente ricevute nel caso.
+
+- Leggi messaggio, scheda e condizioni prima di chiedere la bozza.
+- Confronta l’email; correggi promessa e tono fino a una versione utilizzabile.
+- Applica l’aggiornamento della foto già ricevuta e cambia anche la nota interna.
+
+**Senza accesso allo strumento:** Correggi le bozze fornite in un editor e confronta con condizioni e variante della foto ricevuta.
+
+[Scarica il pacchetto della lezione](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-05/pacchetto-lezione.zip)
+
+## Materiali di partenza e confronti
 
 ### Materiali integrali del caso Nora
 
@@ -85,12 +101,56 @@ Possiamo scrivere due email diverse e farle funzionare entrambe. Ma se una prome
 
 ```
 
+<details>
+<summary>Nota interna comune a P0 e P1 · apri per confrontare</summary>
+
 ### Nota interna comune a P0 e P1
 
 [Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-05/materiali/materiale-02.txt)
 
 ```text
 Nora chiede il rimborso. Aspettiamo le foto e la decisione della responsabile. L'email va approvata prima dell'invio.
+```
+
+</details>
+
+<details>
+<summary>Email completa — pronta da far approvare · apri per confrontare</summary>
+
+### Email completa — pronta da far approvare
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-05/materiali/nora-completa.txt)
+
+```text
+Oggetto: Ordine Q-184 — foto per la segnalazione
+
+Buongiorno Nora, mi dispiace per il problema con la tazza e per il fatto che non possa usarla. Abbiamo preso nota che preferisce il rimborso: la responsabile deve ancora valutarlo. Può inviarci una foto della tazza e una dell’imballaggio? Ci aiuteranno a valutare la segnalazione. Appena riceveremo entrambe le foto, la aggiorneremo entro due giorni lavorativi. Grazie per averci scritto.
+
+Assistenza Quercia
+
+NOTA INTERNA SEPARATA
+Mancano entrambe le foto e la decisione sul rimborso. Bozza da approvare prima dell’invio.
+```
+
+</details>
+
+### Variante — è arrivata una foto
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-05/materiali/nora-una-foto.txt)
+
+```text
+AGGIORNAMENTO INVENTATO
+Nora ha mandato la foto della tazza. Manca quella dell’imballaggio. Rimborso ancora da valutare.
+
+EMAIL COMPLETA DI CONFRONTO
+Oggetto: Ordine Q-184 — foto dell’imballaggio
+
+Buongiorno Nora, grazie per la foto della tazza. Mi dispiace per il problema che ci ha segnalato. Può inviarci anche una foto dell’imballaggio? Appena avremo entrambe le foto, la aggiorneremo entro due giorni lavorativi. Abbiamo preso nota che preferisce il rimborso: la responsabile deve ancora valutarlo e al momento non possiamo confermarlo. Grazie per averci scritto.
+
+Assistenza Quercia
+
+NOTA INTERNA SEPARATA
+Foto della tazza ricevuta; manca l’imballaggio. Rimborso da valutare. Bozza da approvare.
 ```
 
 ## Richieste da copiare
@@ -110,12 +170,23 @@ Prima incolla Materiali integrali del caso Nora dalla pagina Materiali. Poi invi
 
 
 ```text
-Cambia solo questa frase: «Abbiamo preso nota che preferisce il rimborso: le confermiamo che lo riceverà entro cinque giorni». La scheda dice che il rimborso non è ancora deciso. Scrivi che abbiamo capito la richiesta di Nora, ma deve ancora valutarla la responsabile. Non promettere il rimborso né una data. Lascia identico tutto il resto, compresi oggetto, firma e nota per noi. Ridammi l'email completa e la nota.
+Cambia solo questa frase: «Abbiamo preso nota che preferisce il rimborso: le confermiamo che lo riceverà entro cinque giorni». La scheda dice che il rimborso non è ancora deciso. Scrivi che abbiamo capito la richiesta di Nora, ma deve ancora valutarla la responsabile. Non promettere il rimborso né una data. Lascia identico tutto il resto, compresi oggetto e firma. Ridammi l’email completa. A parte aggiungi: «Rimborso da valutare; foto mancanti; bozza da approvare».
 ```
 
 Usa la chat con la bozza sbagliata. Se la tua risposta non ha questo errore, copia l'esempio dai Materiali e lavora su quello.
 
 [Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-05/prompt/prompt-02.txt)
+
+### Usiamo anche l’informazione appena arrivata
+
+
+```text
+Aggiorna la risposta a Nora: abbiamo ricevuto la foto della tazza; manca solo quella dell’imballaggio. Ringraziala per la foto e chiedi soltanto quella mancante. L’aggiornamento arriva entro due giorni lavorativi da quando avremo entrambe. Il rimborso resta da valutare. Conserva ordine Q-184, tono semplice e firma. Tieni separata la nota interna.
+```
+
+Usa la chat con la bozza completa e confronta la nuova richiesta delle foto con il dato ricevuto.
+
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-05/prompt/prompt-03.txt)
 
 ## Esempi da confrontare con il tuo lavoro
 
@@ -144,6 +215,16 @@ Buongiorno Nora, mi dispiace per il problema con la tazza e per il fatto che non
 Assistenza Quercia
 
 [Apri il TXT dell’esempio](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-05/esempi/esempio-02.txt)
+
+### Chiediamo ciò che ci manca
+
+ESEMPIO PREPARATO PER IL CORSO
+
+Grazie per la foto della tazza. Può inviarci anche una foto dell’imballaggio? Appena avremo entrambe, la aggiorneremo entro due giorni lavorativi. La richiesta di rimborso è ancora in valutazione.
+
+Questo è il passaggio da sostituire nell’email. Nella nota interna scriviamo: foto della tazza ricevuta, imballaggio ancora mancante.
+
+[Apri il TXT dell’esempio](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-05/esempi/esempio-03.txt)
 
 ## Prima di chiudere
 

@@ -1,0 +1,5 @@
+ESEMPIO PREPARATO PER IL CORSO
+
+Omar, Giulia ti manda i testi dei tre servizi entro il 10 novembre. Per pubblicarli aspetta il suo via libera. La data di pubblicazione non è ancora fissata.
+
+La nota è più corta del verbale. Tiene l’azione di Omar e la condizione che gli serve per svolgerla. Salvala come nota-omar.txt.

@@ -10,7 +10,23 @@ Qui trovi i dati degli esercizi e i testi da copiare nella chat. I casi sono inv
 
 Puoi leggere tutto qui senza un account GitHub. Il riquadro di ogni richiesta permette di copiare il testo. Per avere un file sul computer, apri il TXT collegato e salvalo. Le tue prove vanno nella cartella personale `corso-base`.
 
-## Materiali di partenza
+## Parti da qui
+
+I dati necessari sono tutti in questa pagina. Per fare il caso non devi recuperare una tua vecchia chat.
+
+**Ti serve:** Una chat con generazione immagini disponibile e la richiesta inclusa. Nei materiali ci sono anche schemi di composizione.
+
+**Alla fine avrai:** Immagine iniziale e revisione controllate, più prova del formato quadrato; oppure scelta motivata sugli schemi.
+
+- Definisci uso, soggetto e spazio; poi genera e guarda il risultato.
+- Cambia il colore sull’immagine scelta e controlla anche ciò che doveva restare.
+- Prova il formato quadrato e riapri i file scaricati; confronta prima di scegliere.
+
+**Senza accesso allo strumento:** Confronta gli schemi e scrivi le richieste di modifica. Non equivale ad aver generato o controllato un’immagine effettiva.
+
+[Scarica il pacchetto della lezione](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-12/pacchetto-lezione.zip)
+
+## Materiali di partenza e confronti
 
 ### Consegna e prompt iniziale
 
@@ -48,6 +64,21 @@ SENZA GENERAZIONE DISPONIBILE
 Confronta gli schemi, scrivi la richiesta di correzione per A e valuta la revisione geometrica di B. Non dichiarare di aver verificato una generazione che non hai eseguito.
 ```
 
+### Secondo uso — immagine quadrata
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-12/materiali/secondo-formato.txt)
+
+```text
+CASO INVENTATO
+Il laboratorio chiede una versione quadrata dell’illustrazione per un secondo post. Devono restare tazza terracotta, manico intero, appoggio sul tavolo e spazio per il titolo a sinistra.
+PRIMA PROVA
+Ritaglia in anteprima senza sovrascrivere l’originale. Se perdi manico o spazio, prova una ricomposizione usando l’immagine precedente come riferimento.
+CONFRONTO
+Un formato quadrato con la tazza tagliata non soddisfa la consegna. Non basta cambiare il nome del file. Apri le due versioni e controlla dimensioni, soggetto e posto per il titolo.
+SENZA GENERAZIONE
+Usa gli schemi di composizione e descrivi cosa perderesti col ritaglio. Scrivi la richiesta di ricomposizione. Questo verifica la scelta e la richiesta, non l’esito di un generatore.
+```
+
 ## Richieste da copiare
 
 ### La richiesta completa
@@ -57,7 +88,7 @@ Confronta gli schemi, scrivi la richiesta di correzione per A e valuta la revisi
 Crea un'illustrazione originale orizzontale 16:9 per accompagnare un post di un laboratorio di ceramica. Mostra una sola tazza blu, con un solo manico, appoggiata interamente su un tavolo chiaro nella metà destra. Lascia la metà sinistra libera, con fondo avorio, per aggiungere un titolo in un secondo momento. Stile editoriale semplice e adulto, pochi elementi, forme leggibili. Nessun testo, logo, persona o marchio. Non deve sembrare la foto di un prodotto realmente in vendita.
 ```
 
-Copia la richiesta dai Materiali nel servizio usato nella dimostrazione. Aspetta l'immagine prima di chiedere modifiche.
+Copia la richiesta in ChatGPT per generare l’immagine. Aspetta il risultato prima di chiedere modifiche.
 
 [Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-12/prompt/prompt-01.txt)
 
@@ -72,6 +103,17 @@ Chiedi la modifica sull'immagine scelta, nella stessa conversazione. Dopo confro
 
 [Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-12/prompt/prompt-02.txt)
 
+### Cambiamo formato conservando il lavoro utile
+
+
+```text
+Adatta questa illustrazione a un formato quadrato 1:1. Mantieni la tazza terracotta con un solo manico, appoggiata sul tavolo nella parte destra. Ricomponi la scena lasciando libera la parte sinistra per il titolo. Non limitarti a tagliare il manico o il bordo della tazza. Conserva fondo avorio e stile semplice; nessun testo o logo.
+```
+
+Usa l’immagine terracotta come riferimento. Confronta la nuova composizione con il ritaglio provato prima.
+
+[Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-12/prompt/prompt-03.txt)
+
 ## Prima di chiudere
 
 - Una sola tazza con un solo manico.
@@ -82,7 +124,7 @@ Chiedi la modifica sull'immagine scelta, nella stessa conversazione. Dopo confro
 
 ## Fonti indicate nel corso
 
-Riferimenti consultati il 18 ottobre 2026. Funzioni e accessi possono cambiare.
+Riferimenti ricontrollati il 27 ottobre 2026. Funzioni e accessi possono cambiare.
 
 - https://learn.chatgpt.com/docs/image-generation
 

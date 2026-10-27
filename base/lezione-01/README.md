@@ -14,7 +14,23 @@ Puoi leggere tutto qui senza un account GitHub. Il riquadro di ogni richiesta pe
 
 Guarda prima i tre tentativi nel video. Poi apri una nuova chat e invia le tre richieste qui sotto, una alla volta nella stessa conversazione. Dopo ogni invio leggi la risposta. Il terzo tentativo serve a rendere più naturale un messaggio troppo formale: se il tuo è già semplice, scegli una modifica che abbia senso per il tuo testo.
 
-## Materiali di partenza
+## Parti da qui
+
+I dati necessari sono tutti in questa pagina. Per fare il caso non devi recuperare una tua vecchia chat.
+
+**Ti serve:** Computer, browser, editor di testo e accesso alla chat per provare. Crea una cartella corso-base.
+
+**Alla fine avrai:** appuntamento-luca-bozza.txt, con messaggio e nota sul controllo.
+
+- Guarda i tre tentativi nella stessa chat: incarico vago, dati, tono.
+- Dopo il terzo fermati e riprova. Confronta date e richiesta di conferma.
+- Salva la bozza, aggiungi la nota e riapri il file.
+
+**Senza accesso allo strumento:** Usa i messaggi di esempio, correggili e prova il salvataggio. Questo esercita lettura e file, non l’uso della chat.
+
+[Scarica il pacchetto della lezione](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-01/pacchetto-lezione.zip)
+
+## Materiali di partenza e confronti
 
 ### Appunti completi
 
@@ -101,6 +117,6 @@ Rileggiamo gli appunti: 12 novembre alle 10:00, nuova proposta 13 novembre alle 
 
 ## Fonti indicate nel corso
 
-Riferimenti consultati il 18 ottobre 2026. Funzioni e accessi possono cambiare.
+Riferimenti ricontrollati il 27 ottobre 2026. Funzioni e accessi possono cambiare.
 
 - https://learn.chatgpt.com/docs/use-chatgpt
