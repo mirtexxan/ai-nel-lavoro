@@ -18,9 +18,9 @@ I dati necessari sono tutti in questa pagina. Per fare il caso non devi recupera
 
 **Alla fine avrai:** Una riga per formula, filtro e messaggio: errore possibile e controllo adatto.
 
-- Applica la regola a 9, 10 e 12.
-- Nelle sei mail trova i due errori del filtro.
-- Confronta il messaggio con gli appunti di Luca e scegli un controllo per ciascun caso.
+- Leggi i tre risultati e scegli un controllo per ciascuno.
+- Prova 9, 10 e 12; trova i due errori nelle sei mail; correggi la conferma aggiunta al messaggio.
+- Confronta le tue scelte con lo svolgimento, dopo la prova.
 
 **Senza accesso allo strumento:** Il lavoro completo si può fare sui materiali, anche senza usare un chatbot.
 
@@ -28,15 +28,20 @@ I dati necessari sono tutti in questa pagina. Per fare il caso non devi recupera
 
 ## Materiali di partenza e confronti
 
-### Tre casi: formula, spam e messaggio
+### Tre risultati da controllare
 
 [Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-02/materiali/materiale-01.txt)
 
 ```text
-A. Una formula scritta da una persona mostra «da riordinare» quando la quantità è minore di 10. Prova con 9, 10 e 12.
-B. Un modello addestrato su esempi prova a distinguere spam e mail utili. Due errori inventati: una fattura attesa finisce nello spam; una pubblicità non richiesta rimane in arrivo. Non sono misurazioni di un filtro.
-C. Un modello linguistico scrive a un cliente usando gli appunti forniti.
-Per ogni caso scrivi una riga: che cosa fa il sistema, un errore possibile, una prova per accorgertene. B e C usano entrambi un modello addestrato: il compito è diverso.
+CASI INVENTATI
+
+A · Il foglio mostra «da riordinare» anche se segna 10 scatole. La regola dice: avvisa quando sono meno di 10.
+
+B · Non trovi una fattura che aspettavi. Il filtro antispam usa un modello addestrato su esempi.
+
+C · La chat scrive «Luca ha confermato il nuovo orario». Nei nostri appunti Luca deve ancora rispondere.
+
+Per ciascuno scrivi: «Guarderei… perché…». Ora metti in pausa. Quando riparti, vediamo come controllarli.
 ```
 
 ### Sei mail per provare il controllo
@@ -67,6 +72,23 @@ Mail 1: comunicazione utile persa nello spam; controllo anche quella cartella pe
 ```text
 Caso inventato. Elisa scrive a Luca. Incontro iniziale: 12 novembre 2026, ore 10:00. Proposta: 13 novembre 2026, ore 15:00. Durata: 30 minuti. Modalità: online. Il link arriverà dopo la conferma di Luca. Disponibilità di Luca: non nota. Motivo dello spostamento: non fornito. Preparare una bozza senza inviarla.
 ```
+
+<details>
+<summary>Confronto dei tre controlli — apri dopo la prova · apri per confrontare</summary>
+
+### Confronto dei tre controlli — apri dopo la prova
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-02/materiali/soluzione-tre-controlli.txt)
+
+```text
+A. Provo la formula con 9, 10 e 12. Deve dare l’avviso solo con 9; verifico anche che le scorte registrate siano aggiornate.
+B. Cerco la fattura nello spam e la confronto con ciò che aspettavo. Nelle sei mail, la 1 è utile ma finisce nello spam; la 4 è indesiderata ma resta in arrivo.
+C. Torno agli appunti: Luca deve ancora rispondere. Correggo la frase in una richiesta di conferma.
+
+I controlli cambiano perché cambiano il lavoro e la possibile causa dell’errore.
+```
+
+</details>
 
 ## Richieste da copiare
 

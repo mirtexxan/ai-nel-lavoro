@@ -1,0 +1,5 @@
+A. Provo la formula con 9, 10 e 12. Deve dare l’avviso solo con 9; verifico anche che le scorte registrate siano aggiornate.
+B. Cerco la fattura nello spam e la confronto con ciò che aspettavo. Nelle sei mail, la 1 è utile ma finisce nello spam; la 4 è indesiderata ma resta in arrivo.
+C. Torno agli appunti: Luca deve ancora rispondere. Correggo la frase in una richiesta di conferma.
+
+I controlli cambiano perché cambiano il lavoro e la possibile causa dell’errore.

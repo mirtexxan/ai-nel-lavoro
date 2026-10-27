@@ -1,0 +1,3 @@
+Riparti da 2 risme di carta A4, 3 penne blu, 1 quaderno e pennarelli da confermare. Dopo la prima risposta aggiungi tu nella stessa chat il nuovo dato: Sara comunica 6 pennarelli neri. Gli altri articoli restano invariati.
+Controlla la risposta e salvala in corso-base come lista-ufficio-variante.txt. Chiudi e riapri. Guarda la soluzione soltanto dopo la tua prova.
+Senza chat: copia la lista della demo e modifica il file con il nuovo dato; eserciti la revisione e il salvataggio.

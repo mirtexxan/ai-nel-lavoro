@@ -2,4 +2,6 @@ ESEMPIO PREPARATO PER IL CORSO
 
 Ciao Luca, avrei bisogno di spostare il nostro appuntamento. Fammi sapere quando saresti disponibile. Grazie!
 
-Luca non trova una nuova data: non l’abbiamo data alla chat. Potrebbe anche chiederci i dettagli. Sarebbe una risposta sensata.
+Il messaggio si legge, ma a noi serve proporre un giorno e un orario precisi. Alla chat non li abbiamo ancora detti.
+
+Potrebbe anche fermarsi e chiederci i dettagli. Se lo fa, ha individuato quello che manca: adesso glielo diamo.

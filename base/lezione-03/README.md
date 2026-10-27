@@ -1,4 +1,4 @@
-# Lezione 3 · Apriamo ChatGPT e capiamo che cosa stiamo usando
+# Lezione 3 · Usiamo la chat e portiamo il risultato in un file
 
 [Tutte le lezioni](../../README.md)
 
@@ -16,13 +16,13 @@ I dati necessari sono tutti in questa pagina. Per fare il caso non devi recupera
 
 **Ti serve:** Browser, chat e un editor di testo. Crea corso-base se non l’hai già fatto.
 
-**Alla fine avrai:** lista-ufficio-confermata, salvata e riaperta con quattro pennarelli neri.
+**Alla fine avrai:** La lista della demo e lista-ufficio-variante.txt, riaperto con sei pennarelli neri e gli altri articoli invariati.
 
-- Invia la lista iniziale e leggi gli articoli.
-- Solo dopo aggiungi la conferma di Sara nella stessa chat.
-- Copia l’ultima lista nel file e riaprilo. Se vedi la vecchia, controlla il passaggio di copia.
+- Guarda la lista iniziale e l’aggiornamento di Sara: quattro pennarelli neri.
+- Segui il salvataggio e il recupero di un file sbagliato.
+- Poi prova tu con sei pennarelli neri e salva lista-ufficio-variante.txt.
 
-**Senza accesso allo strumento:** Copia la lista finale dai materiali e prova salvataggio e riapertura. Potrai rifare la parte in chat quando avrai accesso.
+**Senza accesso allo strumento:** Puoi copiare la lista della demo dai materiali e fare la variante nel file. La prova di invio nella chat resta da rifare quando avrai accesso.
 
 [Scarica il pacchetto della lezione](https://mirtexxan.github.io/ai-nel-lavoro/base/lezione-03/pacchetto-lezione.zip)
 
@@ -51,6 +51,38 @@ Risultato finale: Da comprare: 2 risme A4, 3 penne blu, 1 quaderno, 4 pennarelli
 
 Se non hai completato la lezione 1, crea adesso una cartella chiamata corso-base: basta per questa prova.
 ```
+
+### La tua prova: Sara corregge la quantità
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-03/materiali/prova-variante.txt)
+
+```text
+Riparti da 2 risme di carta A4, 3 penne blu, 1 quaderno e pennarelli da confermare. Dopo la prima risposta aggiungi tu nella stessa chat il nuovo dato: Sara comunica 6 pennarelli neri. Gli altri articoli restano invariati.
+Controlla la risposta e salvala in corso-base come lista-ufficio-variante.txt. Chiudi e riapri. Guarda la soluzione soltanto dopo la tua prova.
+Senza chat: copia la lista della demo e modifica il file con il nuovo dato; eserciti la revisione e il salvataggio.
+```
+
+<details>
+<summary>Lista della variante — apri dopo la prova · apri per confrontare</summary>
+
+### Lista della variante — apri dopo la prova
+
+[Apri il TXT](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-03/materiali/soluzione-variante.txt)
+
+```text
+DA COMPRARE
+2 risme di carta A4
+3 penne blu
+1 quaderno
+6 pennarelli neri
+
+DA CONFERMARE
+Nessun articolo
+
+Controlla che la chat non abbia sommato 6 ai 4 della demo: la quantità richiesta dalla variante è 6. Gli altri tre articoli e le loro quantità restano uguali.
+```
+
+</details>
 
 ## Richieste da copiare
 
@@ -92,10 +124,10 @@ DA CONFERMARE · Quantità dei pennarelli: in attesa della conferma di Sara.
 
 ## Prima di chiudere
 
-- Nel file riaperto ci sono 4 pennarelli neri?
+- Nella lista della demo ci sono 4 pennarelli neri; nella tua variante ce ne sono 6?
 - Sono rimasti 2 risme A4, 3 penne blu e 1 quaderno?
-- Hai aperto lista-ufficio-confermata e copiato l’ultima risposta?
-- Sai indicare dove abbiamo aggiunto l’informazione ricevuta da Sara?
+- Hai riaperto lista-ufficio-variante.txt dalla cartella corso-base?
+- Sai trovare il messaggio con cui hai cambiato la quantità nella chat?
 
 ## Fonti indicate nel corso
 

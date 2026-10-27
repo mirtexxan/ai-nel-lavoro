@@ -12,7 +12,7 @@ I casi di lavoro sono inventati. Gli esempi di risposta servono al confronto: qu
 |---|---|---:|
 | 01 | [Cominciamo a usare l’AI nel lavoro](base/lezione-01/README.md) | 40 |
 | 02 | [Come fa a rispondere? E perché a volte sbaglia?](base/lezione-02/README.md) | 35 |
-| 03 | [Apriamo ChatGPT e capiamo che cosa stiamo usando](base/lezione-03/README.md) | 35 |
+| 03 | [Usiamo la chat e portiamo il risultato in un file](base/lezione-03/README.md) | 35 |
 | 04 | [Che cosa gli devo dire per farmi aiutare?](base/lezione-04/README.md) | 40 |
 | 05 | [Rispondiamo a una cliente, con le informazioni che abbiamo](base/lezione-05/README.md) | 40 |
 | 06 | [Stessi fatti, persone diverse: cambiamo come li scriviamo](base/lezione-06/README.md) | 40 |
@@ -30,7 +30,7 @@ Medio e avanzato proseguiranno il percorso con lavori più complessi. I loro mat
 
 ## Come usare i materiali
 
-1. Apri la lezione dal collegamento sotto il video o dall’indice qui sopra.
+1. Apri mirtexxan.github.io/ai-nel-lavoro nel browser e scegli la lezione, oppure usa l’indice qui sopra.
 2. Leggi i dati del caso e guarda il passaggio spiegato nel video.
 3. Quando arriva la prova, copia soltanto la richiesta nel riquadro e usa i materiali indicati.
 4. Salva il tuo lavoro nella cartella `corso-base` sul tuo computer. I file qui sono gli originali forniti dal corso.

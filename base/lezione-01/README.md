@@ -71,7 +71,7 @@ Invio questi dati nella stessa chat. Ora può scrivere la proposta. Non gli ho a
 Le informazioni vanno bene. Mantieni esattamente date, orari, durata, modalità online e link dopo la conferma. Riscrivi il messaggio dando del tu a Luca, con frasi più semplici. Togli «con la presente» e le formule burocratiche. Resta entro 80 parole e non aggiungere motivi o altre informazioni.
 ```
 
-Invia questa correzione nella stessa chat. Nel repository trovi tutti e tre i tentativi. Dopo il messaggio finale puoi fermare il video e rifare il percorso.
+Invio la correzione nella stessa chat. Le tre richieste sono nella pagina della lezione: fra poco le userai per rifare la prova.
 
 [Apri il TXT della richiesta](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-01/prompt/prompt-03.txt)
 
@@ -79,13 +79,15 @@ Invia questa correzione nella stessa chat. Nel repository trovi tutti e tre i te
 
 Sono esempi preparati per ragionare sui risultati, non risposte garantite dello strumento.
 
-### Un messaggio c’è. La nuova proposta manca.
+### Gli manca proprio la data che volevamo proporre
 
 ESEMPIO PREPARATO PER IL CORSO
 
 Ciao Luca, avrei bisogno di spostare il nostro appuntamento. Fammi sapere quando saresti disponibile. Grazie!
 
-Luca non trova una nuova data: non l’abbiamo data alla chat. Potrebbe anche chiederci i dettagli. Sarebbe una risposta sensata.
+Il messaggio si legge, ma a noi serve proporre un giorno e un orario precisi. Alla chat non li abbiamo ancora detti.
+
+Potrebbe anche fermarsi e chiederci i dettagli. Se lo fa, ha individuato quello che manca: adesso glielo diamo.
 
 [Apri il TXT dell’esempio](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-01/esempi/esempio-01.txt)
 
@@ -97,13 +99,13 @@ Gentile Luca, con la presente desidero proporle di riprogrammare il nostro incon
 
 [Apri il TXT dell’esempio](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-01/esempi/esempio-02.txt)
 
-### Adesso è più semplice. Le informazioni sono rimaste?
+### Ora suona meglio. Controlliamo anche quello che dice
 
 ESEMPIO PREPARATO PER IL CORSO
 
 Ciao Luca, possiamo spostare il nostro incontro dal 12 novembre 2026 alle 10:00 al 13 novembre 2026 alle 15:00? Durerà sempre 30 minuti e ci vedremo online. Ti mando il link dopo la tua conferma. Fammi sapere se il nuovo orario va bene. Grazie, Elisa.
 
-Rileggiamo gli appunti: 12 novembre alle 10:00, nuova proposta 13 novembre alle 15:00, 30 minuti, online. Il link parte dopo la conferma di Luca.
+Confronta il messaggio con gli appunti: vecchio appuntamento, nuova proposta, durata e link dopo la conferma. Se ci sono, fermati e rifai i tre tentativi nella tua chat.
 
 [Apri il TXT dell’esempio](https://raw.githubusercontent.com/mirtexxan/ai-nel-lavoro/main/base/lezione-01/esempi/esempio-03.txt)
 
